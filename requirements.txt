@@ -1,0 +1,15 @@
+Flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Login
+Flask-Bootstrap
+Flask-Moment
+Flask-RESTful
+Flask-Cors
+Flask-Bcrypt
+python-dotenv
+gunicorn
+pytest
+coverage
+Flask-Mail
